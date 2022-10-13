@@ -19,22 +19,23 @@ html {
 1 rem (relative unit) now will be equivalent to 10px */
 }
 
-margin: 0 4rem;
-letter-spacing: 0.8rem;
-text-align: center;
-border-bottom: 1px solid #826F66;
-border-right: 1px solid #826F66;
-border-left: 1px solid #826F66;
-padding: 0.5rem;
-box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
-text-transform: uppercase;
-font-size: 1.1rem;
+header {
+    margin: 0 4rem;
+    letter-spacing: 0.8rem;
+    text-align: center;
+    border-bottom: 1px solid #826F66;
+    border-right: 1px solid #826F66;
+    border-left: 1px solid #826F66;
+    padding: 0.5rem;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
+    text-transform: uppercase;
+    font-size: 1.1rem;
 }
 
 
 body {
-    background-color: #3A3845;
-    color: #F7CCAC;
+    background-color: #3FA796;
+    color: #251B37;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
@@ -64,11 +65,11 @@ p {
 
 .imageCard a {
     text-decoration: none;
-    color: #826F66;
+    color: #A10035;
 }
 
 .cardText {
-    color: #C69B7B;
+    color: #4C0033;
     text-align: center;
     padding: 2rem;
     border-radius: 30px;
